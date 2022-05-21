@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <img src="https://icongr.am/devicon/java-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/go-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/github-original.svg" width="25px" height="25px"/>
-  <img src="https://icongr.am/devicon/rust-plain.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/nginx-original.svg" width="25px" height="25px"/>
 </p>
 
 
