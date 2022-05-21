@@ -53,22 +53,22 @@ Here are some ideas to get you started:
 
 <!-- programming langs i work-->
 <p align="center">
-<img src="https://devicon.dev/devicon.git/icons/ruby/ruby-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/scala/scala-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/swift/swift-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/rust/rust-plain.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/ruby-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/scala-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/swift-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/ubuntu-plain.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/gitlab-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/javascript-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/python-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/nodejs-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/vuejs-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/electron-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/java-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/go-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/php-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/github-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/rust-plain.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/atom-original.svg" width="25px" height="25px"/>
 </p>
 
 
