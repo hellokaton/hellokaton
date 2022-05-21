@@ -54,21 +54,18 @@ Here are some ideas to get you started:
 <!-- programming langs i work-->
 <p align="center">
   <img src="https://icongr.am/devicon/ruby-original.svg" width="25px" height="25px"/>
-  <img src="https://icongr.am/devicon/scala-original.svg" width="25px" height="25px"/>
-  <img src="https://icongr.am/devicon/swift-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/ubuntu-plain.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/gitlab-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/javascript-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/python-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/nodejs-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/vuejs-original.svg" width="25px" height="25px"/>
+  <img src="https://icongr.am/devicon/react-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/electron-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/java-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/go-original.svg" width="25px" height="25px"/>
-  <img src="https://icongr.am/devicon/php-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/github-original.svg" width="25px" height="25px"/>
   <img src="https://icongr.am/devicon/rust-plain.svg" width="25px" height="25px"/>
-  <img src="https://icongr.am/devicon/atom-original.svg" width="25px" height="25px"/>
 </p>
 
 
